@@ -1,0 +1,14 @@
+# Build results
+[Bb]in/
+[Ob]bj/
+
+# Visual Studio temporary files & user settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages
+*.nupkg
+**/packages/
